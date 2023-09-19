@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- Project from https://start.vaadin.com/project/86fbacc0-bb5e-4584-8e5e-5ba9d123c22b -->
     <groupId>com.example.application</groupId>
-    <artifactId>crm</artifactId>
-    <name>crm</name>
+    <artifactId>hilla-address-book</artifactId>
+    <name>hilla-address-book</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 

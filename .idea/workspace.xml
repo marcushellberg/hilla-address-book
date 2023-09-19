@@ -4,24 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a810759-de64-4326-87a5-01f929390cc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/ContactForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/application/db/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/application/db/ContactRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/application/db/DatabaseInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/application/services/ContactService.java" afterDir="false" />
+    <list default="true" id="4a810759-de64-4326-87a5-01f929390cc9" name="Changes" comment="code!">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/placeholder/Placeholder.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/routes.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/util/routing.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/MainLayout.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/MainLayout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/about/AboutView.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/helloworld/HelloWorldView.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/application/services/HelloWorldService.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,8 +88,17 @@
       <option name="presentableId" value="Default" />
       <updated>1695079928022</updated>
       <workItem from="1695079930851" duration="8160000" />
-      <workItem from="1695142030967" duration="1423000" />
+      <workItem from="1695142030967" duration="1553000" />
     </task>
+    <task id="LOCAL-00001" summary="code!">
+      <option name="closed" value="true" />
+      <created>1695150461085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695150461085</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +109,10 @@
     <option featureType="dependencySupport" implementationName="executable:docker" />
     <option featureType="dependencySupport" implementationName="javascript:npm:vite" />
     <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code!" />
+    <option name="LAST_COMMIT_MESSAGE" value="code!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
